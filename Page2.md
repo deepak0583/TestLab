@@ -16,7 +16,7 @@
 
 Please follow below instructions to login to **Cloudlabs portal** **https://admin.cloudlabs.ai/**. You can use **Microsoft Edge**, **Chromium**, **Google Chrome**, or **Firefox** browsers.  
 
-Navigate to **https://admin.cloudlabs.ai/ **
+Navigate to **https://admin.cloudlabs.ai/**
 
 Click on **Login** at the top right corner of the page. 
 
