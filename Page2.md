@@ -30,6 +30,6 @@ Please follow below instructions to login to **Cloudlabs portal** **https://admi
  
 4.	Once you are logged in to the cloud labs portal, ensure that the **WWL-marketplace** tenant is selected by default from the top right corner and have access to the four **On Demand Labs** (ODL) associated with each lab environment of DP 203.
 
-
+![Image](/2.png)
 
 
