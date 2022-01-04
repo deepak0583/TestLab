@@ -16,12 +16,19 @@
 
 Please follow below instructions to login to **Cloudlabs portal** **https://admin.cloudlabs.ai/**. You can use **Microsoft Edge**, **Chromium**, **Google Chrome**, or **Firefox** browsers.  
 
-Navigate to **https://admin.cloudlabs.ai/**
+1. Navigate to **https://admin.cloudlabs.ai/**
 
-Click on **Login** at the top right corner of the page. 
+2. Click on **Login** at the top right corner of the page. 
 
 ![Login Page](/1.png)
 
+3.	You have the following Login Options:
+   - a. Azure Active Directory (Work or School account).
+   - b. Select the account which is onboarded on Cloud Labs.
+ 
+ Select the **Work Account** and login with your credentials.
+ 
+4.	Once you are logged in to the cloud labs portal, ensure that the **WWL-marketplace** tenant is selected by default from the top right corner and have access to the four **On Demand Labs** (ODL) associated with each lab environment of DP 203.
 
 
 
