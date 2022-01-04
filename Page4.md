@@ -4,8 +4,8 @@
 Below is the Lab structure for each module
 
 
-|Module|	Lab Environment Mapping|	Day	Duration (Hours)|	SQL DW|	Remarks|
-|------|-------------------------|----------------------|-------|--------|
+|Module|	Lab Environment Mapping|	Day|	Duration (Hours)|	SQL DW|	Remarks|
+|------|-------------------------|------|----------------|-------|--------|
 |1|	Lab 1|	1|	2|	NA|	Stop VM after the module.|
 |2|	Lab 2|	1|	2|	100|	Environment gets deleted after this module.|
 |3|	Only whiteboard|	-|	-|	-|	-|
@@ -24,4 +24,4 @@ Below is the Lab structure for each module
 |16|	Lab 4|	4	|2|	200	|Delete environment after this module|
 |17|	Lab 5|	4|	3	|100	|Environment gets deleted after this module.|
 
-NOTE: All environments will be deleted at 1 hours after the course end time.
+**NOTE: All environments will be deleted at 1 hours after the course end time.**
