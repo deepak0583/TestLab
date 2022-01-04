@@ -20,6 +20,7 @@ Navigate to **https://admin.cloudlabs.ai/**
 
 Click on **Login** at the top right corner of the page. 
 
+![Login Page](/1.png)
 
 
 
