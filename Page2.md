@@ -20,7 +20,7 @@ Please follow below instructions to login to **Cloudlabs portal** **https://admi
 
 2. Click on **Login** at the top right corner of the page. 
 
-![Login Page](/1.png)
+![Login Page](images/logo.jpg)
 
 3.	You have the following Login Options:
    - a. Azure Active Directory (Work or School account).
